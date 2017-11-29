@@ -84,7 +84,7 @@ class ClientRepository
     /**
      * Store a new client.
      *
-     * @param  int  $userId
+     * @param  mixed  $userId
      * @param  string  $name
      * @param  string  $redirect
      * @param  bool  $personalAccess
